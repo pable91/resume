@@ -13,7 +13,7 @@
   
 ## Career
 - GameParadiso
-  - Contents programmer and Maintenance
+  - Contents programmer(c,c++) and Maintenance
   - MilkChoco - Online FPS
     - [Youtube](https://www.youtube.com/watch?v=_JssXvzA4P0)
     - [Android](https://play.google.com/store/apps/details?id=com.gameparadiso.milkchoco&hl=ko)

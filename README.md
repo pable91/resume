@@ -1,7 +1,9 @@
+```diff
+
+
 # Kim Yong Kown
 
-
-## Skill
++ ## Skill
 ### front-end
 - javascript, html, css 
 - react, react native
@@ -28,4 +30,7 @@
 
 ## Projects
   - [github link](https://github.com/powderBlue91)
+  
+  
+```
   

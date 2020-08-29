@@ -2,8 +2,8 @@
 
 
 ## Skill
-- javascript, ES6
-- React
+- javascript, html, css 
+- react, react native
 - c,c++
 - cocos2d-x, unreal-engine
 

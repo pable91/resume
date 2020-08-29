@@ -1,8 +1,7 @@
-
 # Kim Yong Kown
 <br />
 
-## Skill
+## Skills
 ### front-end
 - javascript, html, css 
 - react, react native

@@ -1,8 +1,8 @@
-<span style="color:red">some **This is Red Bold.** text</span>
 
 # Kim Yong Kown
-
-+ ## Skill
+<br />
+<br />
+## Skill
 ### front-end
 - javascript, html, css 
 - react, react native

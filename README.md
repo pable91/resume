@@ -1,3 +1,4 @@
+<span style="color:red">some **This is Red Bold.** text</span>
 
 # Kim Yong Kown
 
@@ -29,7 +30,3 @@
 ## Projects
   - [github link](https://github.com/powderBlue91)
   
-  
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>

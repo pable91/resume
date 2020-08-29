@@ -8,7 +8,7 @@
 - javascript, html, css 
 - react, react native
 ### tools
-- github, jira
+- github, jira, tortoise svn
 ### etc
 - c,c++
 - cocos2d-x, unreal-engine

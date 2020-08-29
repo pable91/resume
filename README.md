@@ -2,6 +2,7 @@
 배우길 좋아하고, 호기심 많은 개발자 김용권입니다. <br/>좋은 인연과 함께 더 실력있는 개발자로 성장하고 싶습니다. 감사합니다 :)
 <br/>
 
+
 ## :hammer: Skills
 ### front-end
 - javascript, html, css 

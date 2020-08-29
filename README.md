@@ -1,5 +1,3 @@
-```diff
-
 
 # Kim Yong Kown
 
@@ -32,5 +30,6 @@
   - [github link](https://github.com/powderBlue91)
   
   
-```
-  
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>

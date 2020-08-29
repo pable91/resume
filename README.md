@@ -2,8 +2,14 @@
 
 
 ## Skill
+### front-end
 - javascript, html, css 
 - react, react native
+
+### tools
+- github, jira
+
+### etc
 - c,c++
 - cocos2d-x, unreal-engine
 
